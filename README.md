@@ -1,4 +1,4 @@
-<h3>Open
+<h3>Open go
  
   <a href="https://priceless-newton-6818e8.netlify.app">Weather App</a>
   <h3>
