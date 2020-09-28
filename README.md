@@ -1,5 +1,5 @@
 <h3>Open <a href="https://priceless-newton-6818e8.netlify.app">Weather 
-  th
+  t
   App</a>
   <h3>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
